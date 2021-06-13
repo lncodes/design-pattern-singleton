@@ -1,4 +1,4 @@
-name: csharph build
+name: c# build
 
 on:
   push:
